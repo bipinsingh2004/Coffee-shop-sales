@@ -1,60 +1,34 @@
-# ☕ Coffee Shop Sales Dashboard (Excel Project)
+# ☕ Coffee Shop Sales Dashboard — Power BI
 
-## 📊 Project Overview
-This project is an interactive **Coffee Shop Sales Dashboard** built using Microsoft Excel. It analyzes sales data to provide insights into customer behavior, product performance, and store efficiency.
+## 📌 Project Overview
+An interactive Power BI dashboard analyzing 6 months of coffee shop 
+sales data across 3 store locations in New York — identifying peak hours, 
+top products, and category-wise revenue distribution.
 
----
+## 🔢 Key Metrics
+- 💰 Total Sales: $6,98,812.33
+- 🧾 Average Bill: $4.69
+- 📦 Average Order Value: $1.44
+- 💲 Average Unit Price: $3.38
 
-## 🎯 Objective
-The main objective of this project is to:
-- Analyze sales performance
-- Identify top-selling products
-- Understand customer ordering patterns
-- Help in better business decision-making
+## 💡 Key Insights
+- ☕ **Peak Hours:** Orders spike between 8–10 AM, confirming strong 
+  morning rush demand
+- 🏪 **Top Location:** Hell's Kitchen leads with $50,735 in footfall sales, 
+  followed closely by Astoria ($50,599)
+- 🥇 **Best Selling Product:** Barista Espresso is the #1 product by sales
+- 📂 **Top Category:** Tea dominates category sales at $2,69,952 followed 
+  by Coffee at $1,96,405
+- 📅 **Busiest Day:** Friday records the highest orders among all weekdays
+- 📏 **Order Size:** Large and Regular sizes drive the most revenue
+- 📉 **Slowest Day:** Saturday has the lowest order volume
 
----
-
-## 🛠️ Tools Used
+## 🛠 Tools Used
+- Power BI Desktop
 - Microsoft Excel
-- Pivot Tables
-- Charts & Graphs
-- Slicers (for filtering)
 
----
-
-## 📌 Key Features
-- ✔️ Total Sales, Average Bill, and Order Metrics
-- ✔️ Hourly Sales Analysis
-- ✔️ Category-wise Sales Distribution
-- ✔️ Size-wise Order Distribution
-- ✔️ Store Location Performance Analysis
-- ✔️ Top 5 Products by Sales
-- ✔️ Weekly Order Trends
-
----
-
-## 📈 Key Insights
-- Peak sales hours are between **8 AM to 10 AM**
-- Some stores generate higher revenue despite similar footfall
-- **Barista Espresso** is the top-selling product
-- Most customers prefer **Large and Regular size orders**
-
----
-
-## 📂 Project File
-- Coffee Shop Sales Dashboard.xlsx
-
----
-
-## 💡 Learning Outcome
-Through this project, I improved my skills in:
-- Data analysis using Excel
-- Dashboard creation
-- Business insight generation
-- Data visualization techniques
-
----
-
+## 📊 Dashboard Preview
+![Coffee Shop Sales Dashboard](dashboard.png)
 ## 🔗 Connect with Me
 - LinkedIn: 
 (linkedin.com/in/bipin-singh-baghel-740862341)
